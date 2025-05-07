@@ -3,6 +3,7 @@ Alumno=input("Ingresa tu nombre: ")
 suma=0
 
 for sum in range(4):
+    
     Calificaciones=int(input(f"Ingresa tus calificaciones  {sum +1} entre 0 a 20= "))
 
     suma += Calificaciones

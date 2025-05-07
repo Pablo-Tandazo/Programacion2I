@@ -14,4 +14,3 @@ if EdadAprox > 18:
 else:
     print("No eres mayor de edad")
 
-# PROYECTO 2 
