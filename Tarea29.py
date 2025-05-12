@@ -1,5 +1,6 @@
 #Sumar números ingresados por el usuario hasta que ingrese 0.
-
+usuario1= int(input("Ingrese su primer numero: "))
+usuario2=int(input("Ingrese su segundo numero: "))
 #Adivinar un número aleatorio entre 1 y 100 (pistas: "mayor" o "menor").
 
 #Validar contraseña (repetir hasta que coincida con una guardada).
@@ -17,3 +18,11 @@
 #Simular un temporizador (contar regresivamente desde N).
 
 #Leer archivos línea por línea hasta fin de archivo.
+
+
+# Visualizar los 5 primeros numeri con mientras = WHILE
+
+contador = 0
+while contador <= 10:
+    print("numeros: " , contador)
+    contador += 1
