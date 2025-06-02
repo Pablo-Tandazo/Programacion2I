@@ -1,5 +1,5 @@
 # Promedio de notas
-print("ESTE PROGRAMA ME CALCULA EL PRMEDIO DE 3 NOTAS INGRESADAS POR EL USUARIO")
+print("ESTE PROGRAMA ME CALCULA EL PROMEDIO DE 3 NOTAS INGRESADAS POR EL USUARIO")
 def calcular_promedio():
     nota1 = float(input("Ingrese la Nota 1 de 0 a 10: "))
     nota2 = float(input("Ingrese la Nota 2 de 0 a 10: "))

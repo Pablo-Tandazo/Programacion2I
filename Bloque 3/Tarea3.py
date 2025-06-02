@@ -1,5 +1,7 @@
 def saludo(lang):
+
     if lang == "es":
+
         print("HOLA")
     elif lang == "fr":
         print("Bonjour")
