@@ -1,0 +1,7 @@
+Python es un lenguaje de programación poderoso y fácil de aprender.
+Es ampliamente utilizado en ciencia de datos, desarrollo web e inteligencia artificial.
+Trabajar con archivos en Python permite manipular información de manera eficiente.
+Las operaciones básicas incluyen lectura, escritura y modificación de archivos.
+Aprender a manejar archivos es esencial para el desarrollo de aplicaciones más avanzadas.
+¡Aquí añadimos más contenido!
+Python hace que trabajar con archivos sea divertido.

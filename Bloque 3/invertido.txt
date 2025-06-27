@@ -1,0 +1,7 @@
+Python hace que trabajar con archivos sea divertido.
+¡Aquí añadimos más contenido!
+Aprender a manejar archivos es esencial para el desarrollo de aplicaciones más avanzadas.
+Las operaciones básicas incluyen lectura, escritura y modificación de archivos.
+Trabajar con archivos en Python permite manipular información de manera eficiente.
+Es ampliamente utilizado en ciencia de datos, desarrollo web e inteligencia artificial.
+Python es un lenguaje de programación poderoso y fácil de aprender.

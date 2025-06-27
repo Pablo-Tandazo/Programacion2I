@@ -1,0 +1,1 @@
+Python es un lenguaje de programación muy popular. Python permite desarrollar aplicaciones web, análisis de datos, inteligencia artificial y más. Muchos programadores prefieren Python por su simplicidad y potencia.
