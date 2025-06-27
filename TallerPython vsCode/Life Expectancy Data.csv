@@ -1,0 +1,20 @@
+Country,Region,Year,Life expectancy,GDP
+Ecuador,South America,2010,75.2,5000
+Ecuador,South America,2011,75.5,5200
+Ecuador,South America,2012,75.8,5400
+Ecuador,South America,2013,76.0,5600
+Ecuador,South America,2014,76.3,5800
+Ecuador,South America,2015,76.5,6000
+Peru,South America,2014,74.0,6500
+Colombia,South America,2014,73.5,7000
+Brazil,South America,2014,72.8,9000
+USA,North America,2014,79.1,55000
+Canada,North America,2014,81.5,48000
+Germany,Europe,2014,80.7,45000
+France,Europe,2014,81.2,42000
+Nigeria,Africa,2014,54.5,2500
+South Africa,Africa,2014,57.1,6000
+China,Asia,2014,75.0,9000
+India,Asia,2014,66.2,2000
+Japan,Asia,2014,83.5,39000
+Australia,Oceania,2014,82.1,52000
